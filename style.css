@@ -15,7 +15,7 @@ img{
 }
 .road{
     width: 400px;
-    height: 100vh;
+    height: 100%;
     background: #2d3436;
     position: absolute;
     left: 50%;
