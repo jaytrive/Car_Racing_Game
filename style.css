@@ -9,7 +9,7 @@
 .road{
     width: 400px;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.712);
+    background: rgba(34, 26, 26, 0.807);
     position: absolute;
     left: 50%;
     transform: translate(-50%);
@@ -53,7 +53,7 @@
 .score{
     position: absolute;
     top: 30px;
-    left:5vw;
+    left:10px;
     width: 150px;
     background: #09953e;
     text-align: center;
