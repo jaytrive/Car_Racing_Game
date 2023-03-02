@@ -56,7 +56,7 @@ function startPlay(){
         moveLines()
         moveEnemies(car)
         if(keys.ArrowUp && player.y > (area.top+10)) player.y -= player.speed
-        if(keys.ArrowDown && player.y < (area.bottom-80)) player.y += player.speed
+        if(keys.ArrowDown && player.y < (area.bottom-85)) player.y += player.speed
         if(keys.ArrowLeft && player.x > 0) player.x -= player.speed
         if(keys.ArrowRight && player.x < (area.width - 70)) player.x += player.speed
         
